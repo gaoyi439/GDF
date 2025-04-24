@@ -28,3 +28,18 @@ In main.py, specify the method argument to choose one of the 2 methods available
 Specify the dataset argument:
 - scene: scene dataset
 - yeast: yeast dataset
+
+## citation
+<code data-enlighter-language="raw" class="EnlighterJSRAW"> @inproceedings{DBLP:conf/ijcai/0003XZ23,
+  author       = {Yi Gao and
+                  Miao Xu and
+                  Min{-}Ling Zhang},
+  title        = {Unbiased Risk Estimator to Multi-Labeled Complementary Label Learning},
+  booktitle    = {Proceedings of the 32nd International Joint Conference on
+                  Artificial Intelligence},
+  pages        = {3732--3740},
+  address    = {Macao, China},
+  year         = {2023}
+}</code>
+
+ 
