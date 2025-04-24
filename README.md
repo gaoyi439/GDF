@@ -31,9 +31,7 @@ Specify the dataset argument:
 
 ## citation
 <code data-enlighter-language="raw" class="EnlighterJSRAW"> @inproceedings{DBLP:conf/ijcai/0003XZ23,
-  author       = {Yi Gao and
-                  Miao Xu and
-                  Min{-}Ling Zhang},
+  author       = {Yi Gao and Miao Xu and Min{-}Ling Zhang},
   title        = {Unbiased Risk Estimator to Multi-Labeled Complementary Label Learning},
   booktitle    = {Proceedings of the 32nd International Joint Conference on
                   Artificial Intelligence},
